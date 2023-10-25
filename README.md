@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @MuneerHussain01
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Machine Learning Specialization.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Through www.linkedin.com/in/muneer-hussain
+[![MasterHead](https://camo.githubusercontent.com/d841e65dd3a0c651bb4c51d9055f88730e214eb13526805a0e4b7e5a026648de/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a5450793470665f503151554e565a717a6e676a6c69412e676966)](https://rishavchanda.io)
 
-<!---
-MuneerHussain01/MuneerHussain01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Muneer Hussain</h1>
+<h3 align="center">AI Enthusiastic.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muneerhussain01&label=Profile%20views&color=0e75b6&style=flat" alt="muneerhussain01" /> </p>
+
+- 🌱 I’m currently learning **ML || DP || NLP || CV.etc**
+
+- 📫 How to reach me **www.linkedin.com/in/muneer-hussain**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/muneer-hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muneer-hussain" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/munir._.purkii?igshid=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/munir._.purkii?igshid=ogq5zdc2odk2za==" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneerhussain01&show_icons=true&locale=en&layout=compact" alt="muneerhussain01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muneerhussain01&show_icons=true&locale=en" alt="muneerhussain01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muneerhussain01&" alt="muneerhussain01" /></p>
